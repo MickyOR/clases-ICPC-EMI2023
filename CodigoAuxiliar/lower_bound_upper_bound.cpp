@@ -27,7 +27,7 @@ int main() {
   //   cout << *it << endl;
   // }
 
-  // encontrar elemento mayor a x
+  // encontrar mayor elemento menor a x
   auto it = s.lower_bound(x);
   if (it == s.begin()) {
     cout << "no hay" << endl;
