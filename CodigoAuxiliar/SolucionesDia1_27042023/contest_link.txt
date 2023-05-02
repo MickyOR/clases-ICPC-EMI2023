@@ -1,1 +1,2 @@
 https://vjudge.net/contest/555624
+pass: disco
